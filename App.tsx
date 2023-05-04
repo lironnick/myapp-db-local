@@ -6,6 +6,8 @@ import { styles } from './styles'
 
 // const storage = new MMKV({ id: 'myappdblocal'})
 
+
+
 type User = {
   name: string;
   email: string;
